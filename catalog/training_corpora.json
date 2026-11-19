@@ -1,0 +1,299 @@
+[
+  {
+    "id": "parice",
+    "title": "ParIce English–Icelandic parallel corpus",
+    "language_pairs": [
+      "en-is"
+    ],
+    "publisher_url": "https://parice.arnastofnun.is/",
+    "access": "public-download",
+    "license_summary": "Publisher states CC BY 4.0; source components should be reviewed before republishing.",
+    "citation_keys": [
+      "barkarson2019parice"
+    ],
+    "notes": "Use train split; deduplicate gold test/dev sentences."
+  },
+  {
+    "id": "parice-2021",
+    "title": "ParIce 21.10 (expanded)",
+    "language_pairs": [
+      "en-is"
+    ],
+    "publisher_url": "https://repository.clarin.is/repository/xmlui/handle/20.500.12537/145",
+    "access": "public-download",
+    "license_summary": "Check the specific release record before reuse.",
+    "citation_keys": [
+      "parice2021"
+    ],
+    "notes": "Expanded version: different from original 2019 release."
+  },
+  {
+    "id": "opus",
+    "title": "OPUS parallel corpora",
+    "language_pairs": "*",
+    "publisher_url": "https://opus.nlpl.eu/",
+    "access": "public-download",
+    "license_summary": "Licenses vary by subcorpus; no umbrella redistribution grant.",
+    "citation_keys": [
+      "tiedemann2012opus"
+    ],
+    "notes": "Choose e.g. Europarl/JRC/SETIMES/OpenSubtitles; inspect per-subcorpus terms."
+  },
+  {
+    "id": "opus100",
+    "title": "OPUS-100 multilingual parallel corpus",
+    "language_pairs": "*",
+    "publisher_url": "https://opus.nlpl.eu/opus-100.php",
+    "access": "public-download",
+    "license_summary": "Underlying OPUS source corpus conditions vary; verify actual data license.",
+    "citation_keys": [
+      "zhang2020opus100"
+    ],
+    "notes": "Convenient stratified capped training benchmark, not word-alignment gold."
+  },
+  {
+    "id": "europarl",
+    "title": "Europarl parallel corpus",
+    "language_pairs": "*",
+    "publisher_url": "https://opus.nlpl.eu/Europarl.php",
+    "access": "public-download",
+    "license_summary": "Check particular Europarl/OPUS release attribution and underlying rights.",
+    "citation_keys": [
+      "koehn2005europarl"
+    ],
+    "notes": "Especially relevant for EN-FR/DE/ES/SV/IT/NL and some EU languages."
+  },
+  {
+    "id": "jrc-acquis",
+    "title": "JRC-Acquis",
+    "language_pairs": "*",
+    "publisher_url": "https://opus.nlpl.eu/JRC-Acquis.php",
+    "access": "public-download",
+    "license_summary": "Verify specific JRC-Acquis release terms before reuse.",
+    "citation_keys": [
+      "steinberger2006jrc"
+    ],
+    "notes": "Legal texts; domain matched for MT4CAT EN-IT."
+  },
+  {
+    "id": "czeng",
+    "title": "CzEng 2.0",
+    "language_pairs": [
+      "cs-en"
+    ],
+    "publisher_url": "https://ufal.mff.cuni.cz/czeng",
+    "access": "registration",
+    "license_summary": "Non-commercial research and registration conditions; do not mirror by default.",
+    "citation_keys": [
+      "czeng2020"
+    ],
+    "notes": "Large-scale high-quality parallel Czech–English corpus."
+  },
+  {
+    "id": "kftt",
+    "title": "Kyoto Free Translation Task",
+    "language_pairs": [
+      "ja-en"
+    ],
+    "publisher_url": "https://www.phontron.com/kftt/",
+    "access": "public-download",
+    "license_summary": "Publisher describes CC BY-SA 3.0.",
+    "citation_keys": [
+      "neubig2011kftt"
+    ],
+    "notes": "Domain-matched JA-EN training/test; avoid data leakage."
+  },
+  {
+    "id": "jparacrawl",
+    "title": "JParaCrawl",
+    "language_pairs": [
+      "ja-en"
+    ],
+    "publisher_url": "https://www.kecl.ntt.co.jp/icl/lirg/jparacrawl/",
+    "access": "public-download",
+    "license_summary": "Verify release-specific terms; no blanket grant recorded.",
+    "citation_keys": [
+      "jparacrawlsource"
+    ],
+    "notes": "Large web-crawled Japanese–English pairs."
+  },
+  {
+    "id": "bpcc",
+    "title": "Bharat Parallel Corpus Collection (BPCC)",
+    "language_pairs": [
+      "en-hi"
+    ],
+    "publisher_url": "https://huggingface.co/datasets/ai4bharat/BPCC",
+    "access": "public-download",
+    "license_summary": "Check specific dataset card and source-corpus licenses.",
+    "citation_keys": [
+      "bpccsource"
+    ],
+    "notes": "Supplementary Hindi training; verify split and language pair."
+  },
+  {
+    "id": "nunavut",
+    "title": "Nunavut Hansard / OPUS",
+    "language_pairs": [
+      "en-iu"
+    ],
+    "publisher_url": "https://opus.nlpl.eu/",
+    "access": "public-download",
+    "license_summary": "Review original Hansard terms and OPUS source license.",
+    "citation_keys": [
+      "tiedemann2012opus"
+    ],
+    "notes": "Strong domain match for EN–Inuktitut WPT."
+  },
+  {
+    "id": "tsinghua-train",
+    "title": "Tsinghua Chinese–English training set",
+    "language_pairs": [
+      "zh-en"
+    ],
+    "publisher_url": "https://nlp.csai.tsinghua.edu.cn/~ly/systems/TsinghuaAligner/TsinghuaAligner.html",
+    "access": "public-download",
+    "license_summary": "No explicit redistribution license established on source page.",
+    "citation_keys": [
+      "tsinghuasource"
+    ],
+    "notes": "Publisher describes 700k parallel sentence pairs; download from source."
+  },
+  {
+    "id": "wpt03-train",
+    "title": "WPT 2003 shared-task training material",
+    "language_pairs": [
+      "en-fr",
+      "ro-en"
+    ],
+    "publisher_url": "https://web.eecs.umich.edu/~mihalcea/wpt/",
+    "access": "public-download",
+    "license_summary": "No explicit redistribution license established.",
+    "citation_keys": [
+      "mihalcea2003evaluation"
+    ],
+    "notes": "Use original train split for historical comparability."
+  },
+  {
+    "id": "wpt05-train",
+    "title": "WPT 2005 shared-task training material",
+    "language_pairs": [
+      "en-hi",
+      "en-iu",
+      "en-ro"
+    ],
+    "publisher_url": "https://web.eecs.umich.edu/~mihalcea/wpt05/",
+    "access": "public-download",
+    "license_summary": "No explicit redistribution license established.",
+    "citation_keys": [
+      "martin2005scarce"
+    ],
+    "notes": "Use source-defined train/dev/test partitions."
+  },
+  {
+    "id": "epps",
+    "title": "EPPS / TC-STAR parliamentary corpus",
+    "language_pairs": [
+      "en-es"
+    ],
+    "publisher_url": "https://www.talp.upc.edu/content/epps-word-alignment-trial-and-test-data.html",
+    "access": "public-download",
+    "license_summary": "No standalone redistribution permission verified for source texts.",
+    "citation_keys": [
+      "talp_epps"
+    ],
+    "notes": "Original test corpus domain."
+  },
+  {
+    "id": "scaife",
+    "title": "Perseus / Scaife Ancient Greek text collections",
+    "language_pairs": [
+      "grc-en",
+      "grc-la",
+      "grc-pt"
+    ],
+    "publisher_url": "https://scaife.perseus.org/",
+    "access": "public-download",
+    "license_summary": "Rights vary by ancient source and translated edition; review each text.",
+    "citation_keys": [
+      "perseussource"
+    ],
+    "notes": "Parallel sentence pairing may require manual work."
+  },
+  {
+    "id": "helfi-training",
+    "title": "HELFI parallel Bible materials",
+    "language_pairs": [
+      "he-fi",
+      "grc-fi"
+    ],
+    "publisher_url": "https://github.com/amikael/HELFI",
+    "access": "public-download",
+    "license_summary": "Component-specific licensing; use LICENSES.md.",
+    "citation_keys": [
+      "yli2020helfi"
+    ],
+    "notes": "Cross-lingual morpheme alignment; not directly word-token comparable."
+  },
+  {
+    "id": "pud",
+    "title": "Parallel Universal Dependencies",
+    "language_pairs": [
+      "en-fr",
+      "en-ru",
+      "en-zh",
+      "en-ja",
+      "en-ko",
+      "en-ar"
+    ],
+    "publisher_url": "https://universaldependencies.org/",
+    "access": "public-download",
+    "license_summary": "Treebank licenses vary; check specific UD treebanks and texts.",
+    "citation_keys": [
+      "pudsource"
+    ],
+    "notes": "Small parallel evaluation material, not a large training corpus."
+  },
+  {
+    "id": "mizan-tep",
+    "title": "MIZAN and TEP via OPUS",
+    "language_pairs": [
+      "en-fa"
+    ],
+    "publisher_url": "https://opus.nlpl.eu/",
+    "access": "public-download",
+    "license_summary": "Component rights vary; verify separately.",
+    "citation_keys": [
+      "tiedemann2012opus"
+    ],
+    "notes": "Potential English–Persian training."
+  },
+  {
+    "id": "alt",
+    "title": "Asian Language Treebank / OPUS",
+    "language_pairs": [
+      "my-en"
+    ],
+    "publisher_url": "https://opus.nlpl.eu/",
+    "access": "public-download",
+    "license_summary": "Source-specific rights require checking.",
+    "citation_keys": [
+      "tiedemann2012opus"
+    ],
+    "notes": "Potential Myanmar–English training."
+  },
+  {
+    "id": "setimes",
+    "title": "SETIMES via OPUS",
+    "language_pairs": [
+      "en-tr"
+    ],
+    "publisher_url": "https://opus.nlpl.eu/",
+    "access": "public-download",
+    "license_summary": "Review specific subcorpus conditions.",
+    "citation_keys": [
+      "tiedemann2012opus"
+    ],
+    "notes": "News-domain English–Turkish training."
+  }
+]

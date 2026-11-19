@@ -1,0 +1,1398 @@
+[
+  {
+    "id": "clarin-en-is",
+    "title": "Gold Alignments for English–Icelandic Word Alignments (21.04)",
+    "language_pairs": [
+      "en-is"
+    ],
+    "annotation_type": "word",
+    "original_publication_url": "https://repository.clarin.is/repository/xmlui/handle/20.500.12537/103",
+    "source_url": "https://repository.clarin.is/repository/xmlui/handle/20.500.12537/103",
+    "access": "public",
+    "license": {
+      "identifier": "CC-BY-4.0",
+      "evidence_url": "https://repository.clarin.is/repository/xmlui/handle/20.500.12537/103",
+      "evidence_status": "verified-publisher",
+      "redistribution_decision": "eligible-after-review",
+      "terms_summary": "Publisher marks full deposit CC BY 4.0. Preserve authorship, notice and provenance; inspect included text source terms."
+    },
+    "citation_keys": [
+      "clarinis2021"
+    ],
+    "bibliographic_reference": "Steinþór Steingrímsson and Hjalti Daníelsson (2021). Gold Alignments for English-Icelandic Word Alignments (21.04). CLARIN-IS.",
+    "training_corpus_ids": [
+      "parice",
+      "parice-2021"
+    ],
+    "notes": "",
+    "counts": {
+      "sentences": 604
+    },
+    "verified_on": "2026-11-18"
+  },
+  {
+    "id": "czenali",
+    "title": "Czech–English Manual Word Alignment (CzEnAli)",
+    "language_pairs": [
+      "cs-en"
+    ],
+    "annotation_type": "word",
+    "original_publication_url": "https://ufal.mff.cuni.cz/czech-english-manual-word-alignment",
+    "source_url": "https://ufal.mff.cuni.cz/czech-english-manual-word-alignment",
+    "access": "public",
+    "license": {
+      "identifier": "CC-BY-SA-4.0",
+      "evidence_url": "https://ufal.mff.cuni.cz/czech-english-manual-word-alignment",
+      "evidence_status": "verified-publisher",
+      "redistribution_decision": "eligible-after-review",
+      "terms_summary": "Publisher states CC BY-SA 4.0; derived formats must preserve SA and attribution. Check seven underlying sources."
+    },
+    "citation_keys": [
+      "marecek2008"
+    ],
+    "bibliographic_reference": "David Mareček (2008). Automatic Alignment of Tectogrammatical Trees from Czech-English Parallel Corpus. Charles University, master’s thesis.",
+    "training_corpus_ids": [
+      "czeng"
+    ],
+    "notes": "",
+    "counts": {
+      "sentences": 2500
+    },
+    "verified_on": "2026-11-18"
+  },
+  {
+    "id": "ges-en-sv",
+    "title": "Gold Standard for English–Swedish Europarl Data (GES)",
+    "language_pairs": [
+      "en-sv"
+    ],
+    "annotation_type": "word",
+    "original_publication_url": "https://researchdata.se/en/catalogue/dataset/ext0283-1",
+    "source_url": "https://researchdata.se/en/catalogue/dataset/ext0283-1",
+    "access": "public",
+    "license": {
+      "identifier": "CC-BY-4.0",
+      "evidence_url": "https://researchdata.se/en/catalogue/dataset/ext0283-1",
+      "evidence_status": "verified-publisher",
+      "redistribution_decision": "eligible-after-review",
+      "terms_summary": "Catalog states CC BY 4.0. Review underlying Europarl sentences and attribution before committing files."
+    },
+    "citation_keys": [
+      "holmqvist2011"
+    ],
+    "bibliographic_reference": "Maria Holmqvist and Lars Ahrenberg (2011). A Gold Standard for English-Swedish Word Alignment. NODALIDA.",
+    "training_corpus_ids": [
+      "europarl"
+    ],
+    "notes": "",
+    "counts": {
+      "sentences": 1164
+    },
+    "verified_on": "2026-11-18"
+  },
+  {
+    "id": "kftt-ja-en",
+    "title": "Kyoto Free Translation Task — manual word alignments",
+    "language_pairs": [
+      "ja-en"
+    ],
+    "annotation_type": "word",
+    "original_publication_url": "https://www.phontron.com/kftt/",
+    "source_url": "https://www.phontron.com/kftt/",
+    "access": "public",
+    "license": {
+      "identifier": "CC-BY-SA-3.0",
+      "evidence_url": "https://www.phontron.com/kftt/",
+      "evidence_status": "verified-publisher",
+      "redistribution_decision": "eligible-after-review",
+      "terms_summary": "Publisher describes CC BY-SA 3.0. Pin version, preserve license and alignments, validate reference partitions."
+    },
+    "citation_keys": [
+      "neubig2011kftt"
+    ],
+    "bibliographic_reference": "Graham Neubig (2011). The Kyoto Free Translation Task (KFTT). Project dataset and documentation.",
+    "training_corpus_ids": [
+      "kftt",
+      "jparacrawl"
+    ],
+    "notes": "",
+    "counts": {},
+    "verified_on": "2026-11-18"
+  },
+  {
+    "id": "ugarit-grc-en",
+    "title": "Ugarit Gold Standards: Ancient Greek–English",
+    "language_pairs": [
+      "grc-en"
+    ],
+    "annotation_type": "word",
+    "original_publication_url": "https://doi.org/10.5281/zenodo.7362097",
+    "source_url": "https://github.com/UgaritAlignment/Alignment-Gold-Standards",
+    "access": "public",
+    "license": {
+      "identifier": "CC-BY-SA-4.0",
+      "evidence_url": "https://github.com/UgaritAlignment/Alignment-Gold-Standards/blob/main/LICENSE-CC-BY-SA.md",
+      "evidence_status": "verified-publisher",
+      "redistribution_decision": "eligible-after-review",
+      "terms_summary": "CC BY-SA 4.0 for repository annotations/guidelines; confirm particular translation text rights, retain per-pair Zenodo citation."
+    },
+    "citation_keys": [
+      "palladino2022grceng"
+    ],
+    "bibliographic_reference": "Ugarit Alignment Gold Standards (Ancient Greek–English), Zenodo (2022). DOI: 10.5281/zenodo.7362097",
+    "training_corpus_ids": [
+      "scaife"
+    ],
+    "notes": "",
+    "counts": {},
+    "verified_on": "2026-11-18"
+  },
+  {
+    "id": "ugarit-grc-la",
+    "title": "Ugarit Gold Standards: Ancient Greek–Latin",
+    "language_pairs": [
+      "grc-la"
+    ],
+    "annotation_type": "word",
+    "original_publication_url": "https://doi.org/10.5281/zenodo.7981085",
+    "source_url": "https://github.com/UgaritAlignment/Alignment-Gold-Standards",
+    "access": "public",
+    "license": {
+      "identifier": "CC-BY-SA-4.0",
+      "evidence_url": "https://github.com/UgaritAlignment/Alignment-Gold-Standards/blob/main/LICENSE-CC-BY-SA.md",
+      "evidence_status": "verified-publisher",
+      "redistribution_decision": "eligible-after-review",
+      "terms_summary": "CC BY-SA 4.0 for repository annotations/guidelines; confirm particular translation text rights, retain per-pair Zenodo citation."
+    },
+    "citation_keys": [
+      "palladino2022grclat"
+    ],
+    "bibliographic_reference": "Ugarit Alignment Gold Standards (Ancient Greek–Latin), Zenodo (2022). DOI: 10.5281/zenodo.7981085",
+    "training_corpus_ids": [
+      "scaife"
+    ],
+    "notes": "",
+    "counts": {},
+    "verified_on": "2026-11-18"
+  },
+  {
+    "id": "ugarit-grc-pt",
+    "title": "Ugarit Gold Standards: Ancient Greek–Portuguese",
+    "language_pairs": [
+      "grc-pt"
+    ],
+    "annotation_type": "word",
+    "original_publication_url": "https://doi.org/10.5281/zenodo.7981097",
+    "source_url": "https://github.com/UgaritAlignment/Alignment-Gold-Standards",
+    "access": "public",
+    "license": {
+      "identifier": "CC-BY-SA-4.0",
+      "evidence_url": "https://github.com/UgaritAlignment/Alignment-Gold-Standards/blob/main/LICENSE-CC-BY-SA.md",
+      "evidence_status": "verified-publisher",
+      "redistribution_decision": "eligible-after-review",
+      "terms_summary": "CC BY-SA 4.0 for repository annotations/guidelines; confirm particular translation text rights, retain per-pair Zenodo citation."
+    },
+    "citation_keys": [
+      "ferreira2022grcpor"
+    ],
+    "bibliographic_reference": "Ugarit Alignment Gold Standards (Ancient Greek–Portuguese), Zenodo (2022). DOI: 10.5281/zenodo.7981097",
+    "training_corpus_ids": [
+      "scaife"
+    ],
+    "notes": "",
+    "counts": {},
+    "verified_on": "2026-11-18"
+  },
+  {
+    "id": "alibi-en-fr",
+    "title": "AlibiWordAlignments — hierarchical and derived flat word alignments",
+    "language_pairs": [
+      "en-fr"
+    ],
+    "annotation_type": "hierarchical+word",
+    "original_publication_url": "https://github.com/fyvo/AlibiWordAlignments",
+    "source_url": "https://github.com/fyvo/AlibiWordAlignments",
+    "access": "public",
+    "license": {
+      "identifier": "CC-BY-SA-4.0",
+      "evidence_url": "https://github.com/fyvo/AlibiWordAlignments/blob/main/LICENCE_EN.txt",
+      "evidence_status": "verified-publisher",
+      "redistribution_decision": "eligible-after-review",
+      "terms_summary": "License covers annotations and database rights; texts sourced from Wikisource have separate rights. Check texts before redistributing."
+    },
+    "citation_keys": [
+      "xu2016alibi"
+    ],
+    "bibliographic_reference": "Yong Xu and François Yvon (2016). Novel annotation schemes for sentential and sub-sentential alignments of bi-texts. LREC 2016.",
+    "training_corpus_ids": [
+      "opus",
+      "europarl"
+    ],
+    "notes": "",
+    "counts": {},
+    "verified_on": "2026-11-18"
+  },
+  {
+    "id": "xlwa-en-ar",
+    "title": "XL-WA manually annotated evaluation gold: English–AR",
+    "language_pairs": [
+      "en-ar"
+    ],
+    "annotation_type": "word",
+    "original_publication_url": "https://github.com/SapienzaNLP/XL-WA",
+    "source_url": "https://github.com/SapienzaNLP/XL-WA",
+    "access": "contact-publisher",
+    "license": {
+      "identifier": "CC-BY-NC-SA-4.0",
+      "evidence_url": "https://github.com/SapienzaNLP/XL-WA/blob/main/LICENSE.txt",
+      "evidence_status": "verified-publisher",
+      "redistribution_decision": "contact-required",
+      "terms_summary": "Publisher requires contacting Babelscape to access this pair; do not bypass request, and respect CC BY-NC-SA 4.0."
+    },
+    "citation_keys": [
+      "martelli2023xlwa"
+    ],
+    "bibliographic_reference": "Federico Martelli et al. (2023). XL-WA: a Gold Evaluation Benchmark for Word Alignment in 14 Language Pairs. CLiC-it 2023.",
+    "training_corpus_ids": [
+      "opus100",
+      "opus"
+    ],
+    "notes": "XL-WA training TSV contains automatically generated silver links; only dev and test are gold.",
+    "counts": {
+      "evaluation_split": "manual dev/test; silver train is not gold"
+    },
+    "verified_on": "2026-11-18"
+  },
+  {
+    "id": "xlwa-en-bg",
+    "title": "XL-WA manually annotated evaluation gold: English–BG",
+    "language_pairs": [
+      "en-bg"
+    ],
+    "annotation_type": "word",
+    "original_publication_url": "https://github.com/SapienzaNLP/XL-WA",
+    "source_url": "https://github.com/SapienzaNLP/XL-WA",
+    "access": "public",
+    "license": {
+      "identifier": "CC-BY-NC-SA-4.0",
+      "evidence_url": "https://github.com/SapienzaNLP/XL-WA/blob/main/LICENSE.txt",
+      "evidence_status": "verified-publisher",
+      "redistribution_decision": "restricted-link-default",
+      "terms_summary": "CC BY-NC-SA 4.0 permits noncommercial sharing with attribution and share-alike, but this catalogue defaults to linking, not mirroring; verify whether source text has additional rights."
+    },
+    "citation_keys": [
+      "martelli2023xlwa"
+    ],
+    "bibliographic_reference": "Federico Martelli et al. (2023). XL-WA: a Gold Evaluation Benchmark for Word Alignment in 14 Language Pairs. CLiC-it 2023.",
+    "training_corpus_ids": [
+      "opus100",
+      "opus"
+    ],
+    "notes": "XL-WA training TSV contains automatically generated silver links; only dev and test are gold.",
+    "counts": {
+      "evaluation_split": "manual dev/test; silver train is not gold"
+    },
+    "verified_on": "2026-11-18"
+  },
+  {
+    "id": "xlwa-en-da",
+    "title": "XL-WA manually annotated evaluation gold: English–DA",
+    "language_pairs": [
+      "en-da"
+    ],
+    "annotation_type": "word",
+    "original_publication_url": "https://github.com/SapienzaNLP/XL-WA",
+    "source_url": "https://github.com/SapienzaNLP/XL-WA",
+    "access": "public",
+    "license": {
+      "identifier": "CC-BY-NC-SA-4.0",
+      "evidence_url": "https://github.com/SapienzaNLP/XL-WA/blob/main/LICENSE.txt",
+      "evidence_status": "verified-publisher",
+      "redistribution_decision": "restricted-link-default",
+      "terms_summary": "CC BY-NC-SA 4.0 permits noncommercial sharing with attribution and share-alike, but this catalogue defaults to linking, not mirroring; verify whether source text has additional rights."
+    },
+    "citation_keys": [
+      "martelli2023xlwa"
+    ],
+    "bibliographic_reference": "Federico Martelli et al. (2023). XL-WA: a Gold Evaluation Benchmark for Word Alignment in 14 Language Pairs. CLiC-it 2023.",
+    "training_corpus_ids": [
+      "opus100",
+      "opus",
+      "europarl"
+    ],
+    "notes": "XL-WA training TSV contains automatically generated silver links; only dev and test are gold.",
+    "counts": {
+      "evaluation_split": "manual dev/test; silver train is not gold"
+    },
+    "verified_on": "2026-11-18"
+  },
+  {
+    "id": "xlwa-en-es",
+    "title": "XL-WA manually annotated evaluation gold: English–ES",
+    "language_pairs": [
+      "en-es"
+    ],
+    "annotation_type": "word",
+    "original_publication_url": "https://github.com/SapienzaNLP/XL-WA",
+    "source_url": "https://github.com/SapienzaNLP/XL-WA",
+    "access": "public",
+    "license": {
+      "identifier": "CC-BY-NC-SA-4.0",
+      "evidence_url": "https://github.com/SapienzaNLP/XL-WA/blob/main/LICENSE.txt",
+      "evidence_status": "verified-publisher",
+      "redistribution_decision": "restricted-link-default",
+      "terms_summary": "CC BY-NC-SA 4.0 permits noncommercial sharing with attribution and share-alike, but this catalogue defaults to linking, not mirroring; verify whether source text has additional rights."
+    },
+    "citation_keys": [
+      "martelli2023xlwa"
+    ],
+    "bibliographic_reference": "Federico Martelli et al. (2023). XL-WA: a Gold Evaluation Benchmark for Word Alignment in 14 Language Pairs. CLiC-it 2023.",
+    "training_corpus_ids": [
+      "opus100",
+      "opus",
+      "europarl"
+    ],
+    "notes": "XL-WA training TSV contains automatically generated silver links; only dev and test are gold.",
+    "counts": {
+      "evaluation_split": "manual dev/test; silver train is not gold"
+    },
+    "verified_on": "2026-11-18"
+  },
+  {
+    "id": "xlwa-en-et",
+    "title": "XL-WA manually annotated evaluation gold: English–ET",
+    "language_pairs": [
+      "en-et"
+    ],
+    "annotation_type": "word",
+    "original_publication_url": "https://github.com/SapienzaNLP/XL-WA",
+    "source_url": "https://github.com/SapienzaNLP/XL-WA",
+    "access": "public",
+    "license": {
+      "identifier": "CC-BY-NC-SA-4.0",
+      "evidence_url": "https://github.com/SapienzaNLP/XL-WA/blob/main/LICENSE.txt",
+      "evidence_status": "verified-publisher",
+      "redistribution_decision": "restricted-link-default",
+      "terms_summary": "CC BY-NC-SA 4.0 permits noncommercial sharing with attribution and share-alike, but this catalogue defaults to linking, not mirroring; verify whether source text has additional rights."
+    },
+    "citation_keys": [
+      "martelli2023xlwa"
+    ],
+    "bibliographic_reference": "Federico Martelli et al. (2023). XL-WA: a Gold Evaluation Benchmark for Word Alignment in 14 Language Pairs. CLiC-it 2023.",
+    "training_corpus_ids": [
+      "opus100",
+      "opus"
+    ],
+    "notes": "XL-WA training TSV contains automatically generated silver links; only dev and test are gold.",
+    "counts": {
+      "evaluation_split": "manual dev/test; silver train is not gold"
+    },
+    "verified_on": "2026-11-18"
+  },
+  {
+    "id": "xlwa-en-hu",
+    "title": "XL-WA manually annotated evaluation gold: English–HU",
+    "language_pairs": [
+      "en-hu"
+    ],
+    "annotation_type": "word",
+    "original_publication_url": "https://github.com/SapienzaNLP/XL-WA",
+    "source_url": "https://github.com/SapienzaNLP/XL-WA",
+    "access": "public",
+    "license": {
+      "identifier": "CC-BY-NC-SA-4.0",
+      "evidence_url": "https://github.com/SapienzaNLP/XL-WA/blob/main/LICENSE.txt",
+      "evidence_status": "verified-publisher",
+      "redistribution_decision": "restricted-link-default",
+      "terms_summary": "CC BY-NC-SA 4.0 permits noncommercial sharing with attribution and share-alike, but this catalogue defaults to linking, not mirroring; verify whether source text has additional rights."
+    },
+    "citation_keys": [
+      "martelli2023xlwa"
+    ],
+    "bibliographic_reference": "Federico Martelli et al. (2023). XL-WA: a Gold Evaluation Benchmark for Word Alignment in 14 Language Pairs. CLiC-it 2023.",
+    "training_corpus_ids": [
+      "opus100",
+      "opus"
+    ],
+    "notes": "XL-WA training TSV contains automatically generated silver links; only dev and test are gold.",
+    "counts": {
+      "evaluation_split": "manual dev/test; silver train is not gold"
+    },
+    "verified_on": "2026-11-18"
+  },
+  {
+    "id": "xlwa-en-it",
+    "title": "XL-WA manually annotated evaluation gold: English–IT",
+    "language_pairs": [
+      "en-it"
+    ],
+    "annotation_type": "word",
+    "original_publication_url": "https://github.com/SapienzaNLP/XL-WA",
+    "source_url": "https://github.com/SapienzaNLP/XL-WA",
+    "access": "public",
+    "license": {
+      "identifier": "CC-BY-NC-SA-4.0",
+      "evidence_url": "https://github.com/SapienzaNLP/XL-WA/blob/main/LICENSE.txt",
+      "evidence_status": "verified-publisher",
+      "redistribution_decision": "restricted-link-default",
+      "terms_summary": "CC BY-NC-SA 4.0 permits noncommercial sharing with attribution and share-alike, but this catalogue defaults to linking, not mirroring; verify whether source text has additional rights."
+    },
+    "citation_keys": [
+      "martelli2023xlwa"
+    ],
+    "bibliographic_reference": "Federico Martelli et al. (2023). XL-WA: a Gold Evaluation Benchmark for Word Alignment in 14 Language Pairs. CLiC-it 2023.",
+    "training_corpus_ids": [
+      "opus100",
+      "opus",
+      "europarl"
+    ],
+    "notes": "XL-WA training TSV contains automatically generated silver links; only dev and test are gold.",
+    "counts": {
+      "evaluation_split": "manual dev/test; silver train is not gold"
+    },
+    "verified_on": "2026-11-18"
+  },
+  {
+    "id": "xlwa-en-ko",
+    "title": "XL-WA manually annotated evaluation gold: English–KO",
+    "language_pairs": [
+      "en-ko"
+    ],
+    "annotation_type": "word",
+    "original_publication_url": "https://github.com/SapienzaNLP/XL-WA",
+    "source_url": "https://github.com/SapienzaNLP/XL-WA",
+    "access": "contact-publisher",
+    "license": {
+      "identifier": "CC-BY-NC-SA-4.0",
+      "evidence_url": "https://github.com/SapienzaNLP/XL-WA/blob/main/LICENSE.txt",
+      "evidence_status": "verified-publisher",
+      "redistribution_decision": "contact-required",
+      "terms_summary": "Publisher requires contacting Babelscape to access this pair; do not bypass request, and respect CC BY-NC-SA 4.0."
+    },
+    "citation_keys": [
+      "martelli2023xlwa"
+    ],
+    "bibliographic_reference": "Federico Martelli et al. (2023). XL-WA: a Gold Evaluation Benchmark for Word Alignment in 14 Language Pairs. CLiC-it 2023.",
+    "training_corpus_ids": [
+      "opus100",
+      "opus"
+    ],
+    "notes": "XL-WA training TSV contains automatically generated silver links; only dev and test are gold.",
+    "counts": {
+      "evaluation_split": "manual dev/test; silver train is not gold"
+    },
+    "verified_on": "2026-11-18"
+  },
+  {
+    "id": "xlwa-en-nl",
+    "title": "XL-WA manually annotated evaluation gold: English–NL",
+    "language_pairs": [
+      "en-nl"
+    ],
+    "annotation_type": "word",
+    "original_publication_url": "https://github.com/SapienzaNLP/XL-WA",
+    "source_url": "https://github.com/SapienzaNLP/XL-WA",
+    "access": "public",
+    "license": {
+      "identifier": "CC-BY-NC-SA-4.0",
+      "evidence_url": "https://github.com/SapienzaNLP/XL-WA/blob/main/LICENSE.txt",
+      "evidence_status": "verified-publisher",
+      "redistribution_decision": "restricted-link-default",
+      "terms_summary": "CC BY-NC-SA 4.0 permits noncommercial sharing with attribution and share-alike, but this catalogue defaults to linking, not mirroring; verify whether source text has additional rights."
+    },
+    "citation_keys": [
+      "martelli2023xlwa"
+    ],
+    "bibliographic_reference": "Federico Martelli et al. (2023). XL-WA: a Gold Evaluation Benchmark for Word Alignment in 14 Language Pairs. CLiC-it 2023.",
+    "training_corpus_ids": [
+      "opus100",
+      "opus",
+      "europarl"
+    ],
+    "notes": "XL-WA training TSV contains automatically generated silver links; only dev and test are gold.",
+    "counts": {
+      "evaluation_split": "manual dev/test; silver train is not gold"
+    },
+    "verified_on": "2026-11-18"
+  },
+  {
+    "id": "xlwa-en-pt",
+    "title": "XL-WA manually annotated evaluation gold: English–PT",
+    "language_pairs": [
+      "en-pt"
+    ],
+    "annotation_type": "word",
+    "original_publication_url": "https://github.com/SapienzaNLP/XL-WA",
+    "source_url": "https://github.com/SapienzaNLP/XL-WA",
+    "access": "public",
+    "license": {
+      "identifier": "CC-BY-NC-SA-4.0",
+      "evidence_url": "https://github.com/SapienzaNLP/XL-WA/blob/main/LICENSE.txt",
+      "evidence_status": "verified-publisher",
+      "redistribution_decision": "restricted-link-default",
+      "terms_summary": "CC BY-NC-SA 4.0 permits noncommercial sharing with attribution and share-alike, but this catalogue defaults to linking, not mirroring; verify whether source text has additional rights."
+    },
+    "citation_keys": [
+      "martelli2023xlwa"
+    ],
+    "bibliographic_reference": "Federico Martelli et al. (2023). XL-WA: a Gold Evaluation Benchmark for Word Alignment in 14 Language Pairs. CLiC-it 2023.",
+    "training_corpus_ids": [
+      "opus100",
+      "opus",
+      "europarl"
+    ],
+    "notes": "XL-WA training TSV contains automatically generated silver links; only dev and test are gold.",
+    "counts": {
+      "evaluation_split": "manual dev/test; silver train is not gold"
+    },
+    "verified_on": "2026-11-18"
+  },
+  {
+    "id": "xlwa-en-ru",
+    "title": "XL-WA manually annotated evaluation gold: English–RU",
+    "language_pairs": [
+      "en-ru"
+    ],
+    "annotation_type": "word",
+    "original_publication_url": "https://github.com/SapienzaNLP/XL-WA",
+    "source_url": "https://github.com/SapienzaNLP/XL-WA",
+    "access": "public",
+    "license": {
+      "identifier": "CC-BY-NC-SA-4.0",
+      "evidence_url": "https://github.com/SapienzaNLP/XL-WA/blob/main/LICENSE.txt",
+      "evidence_status": "verified-publisher",
+      "redistribution_decision": "restricted-link-default",
+      "terms_summary": "CC BY-NC-SA 4.0 permits noncommercial sharing with attribution and share-alike, but this catalogue defaults to linking, not mirroring; verify whether source text has additional rights."
+    },
+    "citation_keys": [
+      "martelli2023xlwa"
+    ],
+    "bibliographic_reference": "Federico Martelli et al. (2023). XL-WA: a Gold Evaluation Benchmark for Word Alignment in 14 Language Pairs. CLiC-it 2023.",
+    "training_corpus_ids": [
+      "opus100",
+      "opus"
+    ],
+    "notes": "XL-WA training TSV contains automatically generated silver links; only dev and test are gold.",
+    "counts": {
+      "evaluation_split": "manual dev/test; silver train is not gold"
+    },
+    "verified_on": "2026-11-18"
+  },
+  {
+    "id": "xlwa-en-sl",
+    "title": "XL-WA manually annotated evaluation gold: English–SL",
+    "language_pairs": [
+      "en-sl"
+    ],
+    "annotation_type": "word",
+    "original_publication_url": "https://github.com/SapienzaNLP/XL-WA",
+    "source_url": "https://github.com/SapienzaNLP/XL-WA",
+    "access": "public",
+    "license": {
+      "identifier": "CC-BY-NC-SA-4.0",
+      "evidence_url": "https://github.com/SapienzaNLP/XL-WA/blob/main/LICENSE.txt",
+      "evidence_status": "verified-publisher",
+      "redistribution_decision": "restricted-link-default",
+      "terms_summary": "CC BY-NC-SA 4.0 permits noncommercial sharing with attribution and share-alike, but this catalogue defaults to linking, not mirroring; verify whether source text has additional rights."
+    },
+    "citation_keys": [
+      "martelli2023xlwa"
+    ],
+    "bibliographic_reference": "Federico Martelli et al. (2023). XL-WA: a Gold Evaluation Benchmark for Word Alignment in 14 Language Pairs. CLiC-it 2023.",
+    "training_corpus_ids": [
+      "opus100",
+      "opus"
+    ],
+    "notes": "XL-WA training TSV contains automatically generated silver links; only dev and test are gold.",
+    "counts": {
+      "evaluation_split": "manual dev/test; silver train is not gold"
+    },
+    "verified_on": "2026-11-18"
+  },
+  {
+    "id": "xlwa-en-sv",
+    "title": "XL-WA manually annotated evaluation gold: English–SV",
+    "language_pairs": [
+      "en-sv"
+    ],
+    "annotation_type": "word",
+    "original_publication_url": "https://github.com/SapienzaNLP/XL-WA",
+    "source_url": "https://github.com/SapienzaNLP/XL-WA",
+    "access": "contact-publisher",
+    "license": {
+      "identifier": "CC-BY-NC-SA-4.0",
+      "evidence_url": "https://github.com/SapienzaNLP/XL-WA/blob/main/LICENSE.txt",
+      "evidence_status": "verified-publisher",
+      "redistribution_decision": "contact-required",
+      "terms_summary": "Publisher requires contacting Babelscape to access this pair; do not bypass request, and respect CC BY-NC-SA 4.0."
+    },
+    "citation_keys": [
+      "martelli2023xlwa"
+    ],
+    "bibliographic_reference": "Federico Martelli et al. (2023). XL-WA: a Gold Evaluation Benchmark for Word Alignment in 14 Language Pairs. CLiC-it 2023.",
+    "training_corpus_ids": [
+      "opus100",
+      "opus",
+      "europarl"
+    ],
+    "notes": "XL-WA training TSV contains automatically generated silver links; only dev and test are gold.",
+    "counts": {
+      "evaluation_split": "manual dev/test; silver train is not gold"
+    },
+    "verified_on": "2026-11-18"
+  },
+  {
+    "id": "xlwa-en-zh",
+    "title": "XL-WA manually annotated evaluation gold: English–ZH",
+    "language_pairs": [
+      "en-zh"
+    ],
+    "annotation_type": "word",
+    "original_publication_url": "https://github.com/SapienzaNLP/XL-WA",
+    "source_url": "https://github.com/SapienzaNLP/XL-WA",
+    "access": "contact-publisher",
+    "license": {
+      "identifier": "CC-BY-NC-SA-4.0",
+      "evidence_url": "https://github.com/SapienzaNLP/XL-WA/blob/main/LICENSE.txt",
+      "evidence_status": "verified-publisher",
+      "redistribution_decision": "contact-required",
+      "terms_summary": "Publisher requires contacting Babelscape to access this pair; do not bypass request, and respect CC BY-NC-SA 4.0."
+    },
+    "citation_keys": [
+      "martelli2023xlwa"
+    ],
+    "bibliographic_reference": "Federico Martelli et al. (2023). XL-WA: a Gold Evaluation Benchmark for Word Alignment in 14 Language Pairs. CLiC-it 2023.",
+    "training_corpus_ids": [
+      "opus100",
+      "opus"
+    ],
+    "notes": "XL-WA training TSV contains automatically generated silver links; only dev and test are gold.",
+    "counts": {
+      "evaluation_split": "manual dev/test; silver train is not gold"
+    },
+    "verified_on": "2026-11-18"
+  },
+  {
+    "id": "helfi-he-fi",
+    "title": "HELFI Hebrew–Finnish morpheme alignment",
+    "language_pairs": [
+      "he-fi"
+    ],
+    "annotation_type": "morpheme",
+    "original_publication_url": "https://github.com/amikael/HELFI",
+    "source_url": "https://github.com/amikael/HELFI",
+    "access": "public",
+    "license": {
+      "identifier": "CC-BY-4.0-partial",
+      "evidence_url": "https://github.com/amikael/HELFI/blob/master/LICENSES.md",
+      "evidence_status": "verified-publisher",
+      "redistribution_decision": "component-only",
+      "terms_summary": "Core alignment links CC BY 4.0, while underlying Bible translations and morphological sources have different legal statuses. Do not copy whole corpus blindly."
+    },
+    "citation_keys": [
+      "yli2020helfi"
+    ],
+    "bibliographic_reference": "Anssi Yli-Jyrä et al. (2020). HELFI: a Hebrew-Greek-Finnish Parallel Bible Corpus with Cross-Lingual Morpheme Alignment. LREC 2020.",
+    "training_corpus_ids": [
+      "helfi-training"
+    ],
+    "notes": "",
+    "counts": {},
+    "verified_on": "2026-11-18"
+  },
+  {
+    "id": "helfi-grc-fi",
+    "title": "HELFI Greek–Finnish morpheme alignment",
+    "language_pairs": [
+      "grc-fi"
+    ],
+    "annotation_type": "morpheme",
+    "original_publication_url": "https://github.com/amikael/HELFI",
+    "source_url": "https://github.com/amikael/HELFI",
+    "access": "public",
+    "license": {
+      "identifier": "CC-BY-4.0-partial",
+      "evidence_url": "https://github.com/amikael/HELFI/blob/master/LICENSES.md",
+      "evidence_status": "verified-publisher",
+      "redistribution_decision": "component-only",
+      "terms_summary": "CC BY 4.0 applies to alignment component; separate terms for biblical text and analyses. Requires morpheme-to-word mapping for this benchmark."
+    },
+    "citation_keys": [
+      "yli2020helfi"
+    ],
+    "bibliographic_reference": "Anssi Yli-Jyrä et al. (2020). HELFI: a Hebrew-Greek-Finnish Parallel Bible Corpus with Cross-Lingual Morpheme Alignment. LREC 2020.",
+    "training_corpus_ids": [
+      "helfi-training"
+    ],
+    "notes": "",
+    "counts": {},
+    "verified_on": "2026-11-18"
+  },
+  {
+    "id": "mt4cat-en-it",
+    "title": "MT4CAT word-alignment gold reference",
+    "language_pairs": [
+      "en-it"
+    ],
+    "annotation_type": "word",
+    "original_publication_url": "https://mt4cat.fbk.eu/benchmarks/word-alignment-gold-reference",
+    "source_url": "https://mt4cat.fbk.eu/benchmarks/word-alignment-gold-reference",
+    "access": "public",
+    "license": {
+      "identifier": "CC-BY-NC-ND",
+      "evidence_url": "https://mt4cat.fbk.eu/benchmarks/word-alignment-gold-reference",
+      "evidence_status": "verified-publisher",
+      "redistribution_decision": "restricted-link-default",
+      "terms_summary": "CC BY-NC-ND: noncommercial redistribution of unchanged originals may be allowed with attribution; transformed/normalized files cannot be publicly distributed without permission. Link-only by project policy."
+    },
+    "citation_keys": [
+      "farajian2014online"
+    ],
+    "bibliographic_reference": "M. Amin Farajian, Nicola Bertoldi and Marcello Federico (2014). Online Word Alignment for Online Adaptive Machine Translation. Workshop on Humans and Computer-assisted Translation.",
+    "training_corpus_ids": [
+      "jrc-acquis",
+      "europarl"
+    ],
+    "notes": "",
+    "counts": {
+      "sentences": 200
+    },
+    "verified_on": "2026-11-18"
+  },
+  {
+    "id": "wpt03-en-fr",
+    "title": "WPT 2003 English–French gold alignment",
+    "language_pairs": [
+      "en-fr"
+    ],
+    "annotation_type": "word",
+    "original_publication_url": "https://web.eecs.umich.edu/~mihalcea/wpt/",
+    "source_url": "https://web.eecs.umich.edu/~mihalcea/wpt/",
+    "access": "public",
+    "license": {
+      "identifier": "not-specified",
+      "evidence_url": "https://web.eecs.umich.edu/~mihalcea/wpt/",
+      "evidence_status": "not-found",
+      "redistribution_decision": "link-only",
+      "terms_summary": "Source provides downloads but does not establish a redistribution license. Get permission before mirroring."
+    },
+    "citation_keys": [
+      "mihalcea2003evaluation"
+    ],
+    "bibliographic_reference": "Rada Mihalcea and Ted Pedersen (2003). An Evaluation Exercise for Word Alignment. HLT-NAACL Workshop on Building and Using Parallel Texts.",
+    "training_corpus_ids": [
+      "wpt03-train",
+      "europarl",
+      "opus"
+    ],
+    "notes": "",
+    "counts": {
+      "test_sentences": 447
+    },
+    "verified_on": "2026-11-18"
+  },
+  {
+    "id": "wpt03-ro-en",
+    "title": "WPT 2003 Romanian–English gold alignment",
+    "language_pairs": [
+      "ro-en"
+    ],
+    "annotation_type": "word",
+    "original_publication_url": "https://web.eecs.umich.edu/~mihalcea/wpt/",
+    "source_url": "https://web.eecs.umich.edu/~mihalcea/wpt/",
+    "access": "public",
+    "license": {
+      "identifier": "not-specified",
+      "evidence_url": "https://web.eecs.umich.edu/~mihalcea/wpt/",
+      "evidence_status": "not-found",
+      "redistribution_decision": "link-only",
+      "terms_summary": "Downloadable for shared-task research, but no redistribution license verified."
+    },
+    "citation_keys": [
+      "mihalcea2003evaluation"
+    ],
+    "bibliographic_reference": "Rada Mihalcea and Ted Pedersen (2003). An Evaluation Exercise for Word Alignment. HLT-NAACL Workshop.",
+    "training_corpus_ids": [
+      "wpt03-train",
+      "opus100",
+      "opus"
+    ],
+    "notes": "",
+    "counts": {
+      "test_sentences": 248
+    },
+    "verified_on": "2026-11-18"
+  },
+  {
+    "id": "rwth-de-en",
+    "title": "RWTH Aachen German–English reference alignment",
+    "language_pairs": [
+      "de-en"
+    ],
+    "annotation_type": "word",
+    "original_publication_url": "https://www-i6.informatik.rwth-aachen.de/goldAlignment/",
+    "source_url": "https://www-i6.informatik.rwth-aachen.de/goldAlignment/",
+    "access": "public",
+    "license": {
+      "identifier": "not-specified",
+      "evidence_url": "https://www-i6.informatik.rwth-aachen.de/goldAlignment/",
+      "evidence_status": "not-found",
+      "redistribution_decision": "link-only",
+      "terms_summary": "Original source is historic and no redistribution license verified; check current access/mirrors."
+    },
+    "citation_keys": [
+      "rwthsource"
+    ],
+    "bibliographic_reference": "RWTH Aachen German–English gold alignment resource (historical project page).",
+    "training_corpus_ids": [
+      "europarl",
+      "opus"
+    ],
+    "notes": "",
+    "counts": {
+      "sentences_reported": 508
+    },
+    "verified_on": "2026-11-18"
+  },
+  {
+    "id": "talp-en-es",
+    "title": "TALP / TC-STAR EPPS word-alignment trial and test",
+    "language_pairs": [
+      "en-es"
+    ],
+    "annotation_type": "word",
+    "original_publication_url": "https://www.talp.upc.edu/content/epps-word-alignment-trial-and-test-data.html",
+    "source_url": "https://www.talp.upc.edu/content/epps-word-alignment-trial-and-test-data.html",
+    "access": "public",
+    "license": {
+      "identifier": "not-specified",
+      "evidence_url": "https://www.talp.upc.edu/content/epps-word-alignment-trial-and-test-data.html",
+      "evidence_status": "not-found",
+      "redistribution_decision": "link-only",
+      "terms_summary": "Access to trial/test download is not a permission to mirror. Original EPPS text rights need checking."
+    },
+    "citation_keys": [
+      "talp_epps"
+    ],
+    "bibliographic_reference": "TALP, Universitat Politècnica de Catalunya (2005). EPPS Word Alignment Trial and Test Data.",
+    "training_corpus_ids": [
+      "epps",
+      "europarl"
+    ],
+    "notes": "",
+    "counts": {
+      "sentences": 500
+    },
+    "verified_on": "2026-11-18"
+  },
+  {
+    "id": "wpt05-en-hi",
+    "title": "WPT 2005 English–Hindi alignment gold",
+    "language_pairs": [
+      "en-hi"
+    ],
+    "annotation_type": "word",
+    "original_publication_url": "https://web.eecs.umich.edu/~mihalcea/wpt05/",
+    "source_url": "https://web.eecs.umich.edu/~mihalcea/wpt05/",
+    "access": "public",
+    "license": {
+      "identifier": "not-specified",
+      "evidence_url": "https://web.eecs.umich.edu/~mihalcea/wpt05/",
+      "evidence_status": "not-found",
+      "redistribution_decision": "link-only",
+      "terms_summary": "Shared-task download does not provide clearly verified redistribution grant."
+    },
+    "citation_keys": [
+      "martin2005scarce"
+    ],
+    "bibliographic_reference": "Joel Martin, Rada Mihalcea and Ted Pedersen (2005). Word Alignment for Languages with Scarce Resources. WPT 2005.",
+    "training_corpus_ids": [
+      "wpt05-train",
+      "bpcc",
+      "opus"
+    ],
+    "notes": "",
+    "counts": {},
+    "verified_on": "2026-11-18"
+  },
+  {
+    "id": "wpt05-en-iu",
+    "title": "WPT 2005 English–Inuktitut alignment gold",
+    "language_pairs": [
+      "en-iu"
+    ],
+    "annotation_type": "word",
+    "original_publication_url": "https://web.eecs.umich.edu/~mihalcea/wpt05/",
+    "source_url": "https://web.eecs.umich.edu/~mihalcea/wpt05/",
+    "access": "public",
+    "license": {
+      "identifier": "not-specified",
+      "evidence_url": "https://web.eecs.umich.edu/~mihalcea/wpt05/",
+      "evidence_status": "not-found",
+      "redistribution_decision": "link-only",
+      "terms_summary": "Shared-task download does not provide clearly verified redistribution grant."
+    },
+    "citation_keys": [
+      "martin2005scarce"
+    ],
+    "bibliographic_reference": "Joel Martin, Rada Mihalcea and Ted Pedersen (2005). Word Alignment for Languages with Scarce Resources. WPT 2005.",
+    "training_corpus_ids": [
+      "wpt05-train",
+      "nunavut"
+    ],
+    "notes": "",
+    "counts": {},
+    "verified_on": "2026-11-18"
+  },
+  {
+    "id": "persian-en",
+    "title": "English–Persian / Farsi reference word alignments",
+    "language_pairs": [
+      "en-fa"
+    ],
+    "annotation_type": "word",
+    "original_publication_url": "http://eceold.ut.ac.ir/en/node/940",
+    "source_url": "http://eceold.ut.ac.ir/en/node/940",
+    "access": "public",
+    "license": {
+      "identifier": "not-specified",
+      "evidence_url": "http://eceold.ut.ac.ir/en/node/940",
+      "evidence_status": "not-found",
+      "redistribution_decision": "link-only",
+      "terms_summary": "SimAlign cites Tavakoli et al. 2014, but publication/access and redistribution rights require verification."
+    },
+    "citation_keys": [
+      "persiansource"
+    ],
+    "bibliographic_reference": "Tavakoli et al. (2014), English–Persian gold alignment resource; bibliographic details require verification.",
+    "training_corpus_ids": [
+      "mizan-tep",
+      "opus"
+    ],
+    "notes": "Archived/possibly unavailable original page. Contact authors for authoritative citation.",
+    "counts": {},
+    "verified_on": "2026-11-18"
+  },
+  {
+    "id": "tsinghua-zh-en",
+    "title": "TsinghuaAligner Chinese–English evaluation set",
+    "language_pairs": [
+      "zh-en"
+    ],
+    "annotation_type": "word",
+    "original_publication_url": "https://nlp.csai.tsinghua.edu.cn/~ly/systems/TsinghuaAligner/TsinghuaAligner.html",
+    "source_url": "https://nlp.csai.tsinghua.edu.cn/~ly/systems/TsinghuaAligner/TsinghuaAligner.html",
+    "access": "public",
+    "license": {
+      "identifier": "not-specified",
+      "evidence_url": "https://nlp.csai.tsinghua.edu.cn/~ly/systems/TsinghuaAligner/TsinghuaAligner.html",
+      "evidence_status": "not-found",
+      "redistribution_decision": "link-only",
+      "terms_summary": "Original page offers download, no verified grant to republish. Some reports reference the earlier 900-sentence dev/test; later release reports 40,715 sentence pairs. Pin exact version."
+    },
+    "citation_keys": [
+      "tsinghuasource"
+    ],
+    "bibliographic_reference": "Yang Liu and Maosong Sun, TsinghuaAligner Chinese–English evaluation resource (publisher page).",
+    "training_corpus_ids": [
+      "tsinghua-train",
+      "opus100",
+      "opus"
+    ],
+    "notes": "",
+    "counts": {
+      "reported_sentences_latest": 40715
+    },
+    "verified_on": "2026-11-18"
+  },
+  {
+    "id": "dutch-en",
+    "title": "Dutch–English word alignment gold standard (Macken)",
+    "language_pairs": [
+      "nl-en"
+    ],
+    "annotation_type": "word",
+    "original_publication_url": "https://aclanthology.org/L10-1060/",
+    "source_url": "https://aclanthology.org/L10-1060/",
+    "access": "public",
+    "license": {
+      "identifier": "not-specified",
+      "evidence_url": "https://aclanthology.org/L10-1060/",
+      "evidence_status": "not-found",
+      "redistribution_decision": "link-only",
+      "terms_summary": "Publication exists but the corpus/rights and distribution mechanism must be confirmed."
+    },
+    "citation_keys": [
+      "macken2010annotation"
+    ],
+    "bibliographic_reference": "Lieve Macken (2010). An Annotation Scheme and Gold Standard for Dutch-English Word Alignment. LREC 2010.",
+    "training_corpus_ids": [
+      "europarl",
+      "opus"
+    ],
+    "notes": "",
+    "counts": {
+      "reported_tokens": "25.7k words"
+    },
+    "verified_on": "2026-11-18"
+  },
+  {
+    "id": "myanmar-en",
+    "title": "Myanmar–English reference word alignments",
+    "language_pairs": [
+      "my-en"
+    ],
+    "annotation_type": "word",
+    "original_publication_url": "https://arxiv.org/abs/1909.11288",
+    "source_url": "https://arxiv.org/abs/1909.11288",
+    "access": "public",
+    "license": {
+      "identifier": "not-specified",
+      "evidence_url": "https://arxiv.org/abs/1909.11288",
+      "evidence_status": "not-found",
+      "redistribution_decision": "link-only",
+      "terms_summary": "Paper describes annotated data; direct download and reuse permission are not confirmed."
+    },
+    "citation_keys": [
+      "myanmar2019"
+    ],
+    "bibliographic_reference": "Annotated Guidelines and Building Reference Corpus for Myanmar-English Word Alignment (2019).",
+    "training_corpus_ids": [
+      "alt",
+      "opus"
+    ],
+    "notes": "",
+    "counts": {
+      "reported_sentences": 500
+    },
+    "verified_on": "2026-11-18"
+  },
+  {
+    "id": "silveralign-en-tr",
+    "title": "SilverAlign English–Turkish manual reference",
+    "language_pairs": [
+      "en-tr"
+    ],
+    "annotation_type": "word",
+    "original_publication_url": "https://aclanthology.org/2024.lrec-main.1290/",
+    "source_url": "https://aclanthology.org/2024.lrec-main.1290/",
+    "access": "public",
+    "license": {
+      "identifier": "not-specified",
+      "evidence_url": "https://aclanthology.org/2024.lrec-main.1290/",
+      "evidence_status": "not-found",
+      "redistribution_decision": "link-only",
+      "terms_summary": "Publication reports a 100-sentence gold reference, but explicit redistribution rights for gold files have not been verified."
+    },
+    "citation_keys": [
+      "silveralign2024"
+    ],
+    "bibliographic_reference": "SilverAlign: MT-Based Silver Data Algorithm for Evaluating Word Alignment. LREC-COLING 2024.",
+    "training_corpus_ids": [
+      "setimes",
+      "opus"
+    ],
+    "notes": "",
+    "counts": {
+      "reported_sentences": 100
+    },
+    "verified_on": "2026-11-18"
+  },
+  {
+    "id": "pud-en-fr",
+    "title": "Parallel UD (PUD) linguistically constrained alignment EN-FR",
+    "language_pairs": [
+      "en-fr"
+    ],
+    "annotation_type": "linguistic-word",
+    "original_publication_url": "https://github.com/macleginn/exploring-clmd-divergences",
+    "source_url": "https://github.com/macleginn/exploring-clmd-divergences",
+    "access": "public",
+    "license": {
+      "identifier": "not-specified",
+      "evidence_url": "https://github.com/macleginn/exploring-clmd-divergences",
+      "evidence_status": "not-found",
+      "redistribution_decision": "link-only",
+      "terms_summary": "Repository annotation license and source PUD treebank/text license must be audited separately. Guidelines exclude many function-word links; not directly comparable to SMT gold."
+    },
+    "citation_keys": [
+      "pudalignsource"
+    ],
+    "bibliographic_reference": "Exploring Cross-Lingual Morphosyntactic Divergences (Parallel UD alignment annotations), project repository.",
+    "training_corpus_ids": [
+      "pud",
+      "opus100"
+    ],
+    "notes": "A specialized evaluation track, not pooled with conventional AER without checking annotation scheme.",
+    "counts": {},
+    "verified_on": "2026-11-18"
+  },
+  {
+    "id": "pud-en-ru",
+    "title": "Parallel UD (PUD) linguistically constrained alignment EN-RU",
+    "language_pairs": [
+      "en-ru"
+    ],
+    "annotation_type": "linguistic-word",
+    "original_publication_url": "https://github.com/macleginn/exploring-clmd-divergences",
+    "source_url": "https://github.com/macleginn/exploring-clmd-divergences",
+    "access": "public",
+    "license": {
+      "identifier": "not-specified",
+      "evidence_url": "https://github.com/macleginn/exploring-clmd-divergences",
+      "evidence_status": "not-found",
+      "redistribution_decision": "link-only",
+      "terms_summary": "Repository annotation license and source PUD treebank/text license must be audited separately. Guidelines exclude many function-word links; not directly comparable to SMT gold."
+    },
+    "citation_keys": [
+      "pudalignsource"
+    ],
+    "bibliographic_reference": "Exploring Cross-Lingual Morphosyntactic Divergences (Parallel UD alignment annotations), project repository.",
+    "training_corpus_ids": [
+      "pud",
+      "opus100"
+    ],
+    "notes": "A specialized evaluation track, not pooled with conventional AER without checking annotation scheme.",
+    "counts": {},
+    "verified_on": "2026-11-18"
+  },
+  {
+    "id": "pud-en-zh",
+    "title": "Parallel UD (PUD) linguistically constrained alignment EN-ZH",
+    "language_pairs": [
+      "en-zh"
+    ],
+    "annotation_type": "linguistic-word",
+    "original_publication_url": "https://github.com/macleginn/exploring-clmd-divergences",
+    "source_url": "https://github.com/macleginn/exploring-clmd-divergences",
+    "access": "public",
+    "license": {
+      "identifier": "not-specified",
+      "evidence_url": "https://github.com/macleginn/exploring-clmd-divergences",
+      "evidence_status": "not-found",
+      "redistribution_decision": "link-only",
+      "terms_summary": "Repository annotation license and source PUD treebank/text license must be audited separately. Guidelines exclude many function-word links; not directly comparable to SMT gold."
+    },
+    "citation_keys": [
+      "pudalignsource"
+    ],
+    "bibliographic_reference": "Exploring Cross-Lingual Morphosyntactic Divergences (Parallel UD alignment annotations), project repository.",
+    "training_corpus_ids": [
+      "pud",
+      "opus100"
+    ],
+    "notes": "A specialized evaluation track, not pooled with conventional AER without checking annotation scheme.",
+    "counts": {},
+    "verified_on": "2026-11-18"
+  },
+  {
+    "id": "pud-en-ja",
+    "title": "Parallel UD (PUD) linguistically constrained alignment EN-JA",
+    "language_pairs": [
+      "en-ja"
+    ],
+    "annotation_type": "linguistic-word",
+    "original_publication_url": "https://github.com/macleginn/exploring-clmd-divergences",
+    "source_url": "https://github.com/macleginn/exploring-clmd-divergences",
+    "access": "public",
+    "license": {
+      "identifier": "not-specified",
+      "evidence_url": "https://github.com/macleginn/exploring-clmd-divergences",
+      "evidence_status": "not-found",
+      "redistribution_decision": "link-only",
+      "terms_summary": "Repository annotation license and source PUD treebank/text license must be audited separately. Guidelines exclude many function-word links; not directly comparable to SMT gold."
+    },
+    "citation_keys": [
+      "pudalignsource"
+    ],
+    "bibliographic_reference": "Exploring Cross-Lingual Morphosyntactic Divergences (Parallel UD alignment annotations), project repository.",
+    "training_corpus_ids": [
+      "pud",
+      "opus100"
+    ],
+    "notes": "A specialized evaluation track, not pooled with conventional AER without checking annotation scheme.",
+    "counts": {},
+    "verified_on": "2026-11-18"
+  },
+  {
+    "id": "pud-en-ko",
+    "title": "Parallel UD (PUD) linguistically constrained alignment EN-KO",
+    "language_pairs": [
+      "en-ko"
+    ],
+    "annotation_type": "linguistic-word",
+    "original_publication_url": "https://github.com/macleginn/exploring-clmd-divergences",
+    "source_url": "https://github.com/macleginn/exploring-clmd-divergences",
+    "access": "public",
+    "license": {
+      "identifier": "not-specified",
+      "evidence_url": "https://github.com/macleginn/exploring-clmd-divergences",
+      "evidence_status": "not-found",
+      "redistribution_decision": "link-only",
+      "terms_summary": "Repository annotation license and source PUD treebank/text license must be audited separately. Guidelines exclude many function-word links; not directly comparable to SMT gold."
+    },
+    "citation_keys": [
+      "pudalignsource"
+    ],
+    "bibliographic_reference": "Exploring Cross-Lingual Morphosyntactic Divergences (Parallel UD alignment annotations), project repository.",
+    "training_corpus_ids": [
+      "pud",
+      "opus100"
+    ],
+    "notes": "A specialized evaluation track, not pooled with conventional AER without checking annotation scheme.",
+    "counts": {},
+    "verified_on": "2026-11-18"
+  },
+  {
+    "id": "pud-en-ar",
+    "title": "Parallel UD (PUD) linguistically constrained alignment EN-AR",
+    "language_pairs": [
+      "en-ar"
+    ],
+    "annotation_type": "linguistic-word",
+    "original_publication_url": "https://github.com/macleginn/exploring-clmd-divergences",
+    "source_url": "https://github.com/macleginn/exploring-clmd-divergences",
+    "access": "public",
+    "license": {
+      "identifier": "not-specified",
+      "evidence_url": "https://github.com/macleginn/exploring-clmd-divergences",
+      "evidence_status": "not-found",
+      "redistribution_decision": "link-only",
+      "terms_summary": "Repository annotation license and source PUD treebank/text license must be audited separately. Guidelines exclude many function-word links; not directly comparable to SMT gold."
+    },
+    "citation_keys": [
+      "pudalignsource"
+    ],
+    "bibliographic_reference": "Exploring Cross-Lingual Morphosyntactic Divergences (Parallel UD alignment annotations), project repository.",
+    "training_corpus_ids": [
+      "pud",
+      "opus100"
+    ],
+    "notes": "A specialized evaluation track, not pooled with conventional AER without checking annotation scheme.",
+    "counts": {},
+    "verified_on": "2026-11-18"
+  },
+  {
+    "id": "ldc-gale-zh-en",
+    "title": "GALE Chinese–English Word Alignment and Tagging Broadcast Training Part 1",
+    "language_pairs": [
+      "zh-en"
+    ],
+    "annotation_type": "word",
+    "original_publication_url": "https://catalog.ldc.upenn.edu/LDC2013T23",
+    "source_url": "https://catalog.ldc.upenn.edu/LDC2013T23",
+    "access": "LDC-license",
+    "license": {
+      "identifier": "LDC-data-license",
+      "evidence_url": "https://catalog.ldc.upenn.edu/LDC2013T23",
+      "evidence_status": "verified-publisher",
+      "redistribution_decision": "controlled-access",
+      "terms_summary": "LDC distribution under applicable data license and institutional access terms; no public mirror."
+    },
+    "citation_keys": [
+      "ldc2013t23"
+    ],
+    "bibliographic_reference": "Linguistic Data Consortium (2013). GALE Chinese-English Word Alignment and Tagging — Broadcast Training Part 1. LDC2013T23.",
+    "training_corpus_ids": [
+      "opus100",
+      "tsinghua-train"
+    ],
+    "notes": "",
+    "counts": {},
+    "verified_on": "2026-11-18"
+  },
+  {
+    "id": "ldc-gale-ar-en",
+    "title": "GALE Arabic–English Word Alignment Broadcast Training Part 1",
+    "language_pairs": [
+      "ar-en"
+    ],
+    "annotation_type": "word",
+    "original_publication_url": "https://catalog.ldc.upenn.edu/LDC2014T19",
+    "source_url": "https://catalog.ldc.upenn.edu/LDC2014T19",
+    "access": "LDC-license",
+    "license": {
+      "identifier": "LDC-data-license",
+      "evidence_url": "https://catalog.ldc.upenn.edu/LDC2014T19",
+      "evidence_status": "verified-publisher",
+      "redistribution_decision": "controlled-access",
+      "terms_summary": "Obtain via LDC licensed distribution; redistribution requires separate authorization."
+    },
+    "citation_keys": [
+      "ldc2014t19"
+    ],
+    "bibliographic_reference": "Linguistic Data Consortium (2014). GALE Arabic-English Word Alignment — Broadcast Training Part 1. LDC2014T19.",
+    "training_corpus_ids": [
+      "opus100",
+      "opus"
+    ],
+    "notes": "",
+    "counts": {},
+    "verified_on": "2026-11-18"
+  },
+  {
+    "id": "zurich-document-repack",
+    "title": "ZurichNLP reconstructed document-level word alignment dataset",
+    "language_pairs": [
+      "en-fr",
+      "en-ro",
+      "en-ja",
+      "en-zh",
+      "en-cs",
+      "la-grc"
+    ],
+    "annotation_type": "derived-document",
+    "original_publication_url": "https://huggingface.co/datasets/ZurichNLP/document-level-word-alignment",
+    "source_url": "https://huggingface.co/datasets/ZurichNLP/document-level-word-alignment",
+    "access": "public",
+    "license": {
+      "identifier": "mixed-upstream",
+      "evidence_url": "https://huggingface.co/datasets/ZurichNLP/document-level-word-alignment",
+      "evidence_status": "verified-publisher",
+      "redistribution_decision": "link-only",
+      "terms_summary": "Recombines preexisting human gold standards, including WPT and Tsinghua with unspecified redistribution licenses. Catalogue upstream sources; never treat derivative packaging as new blanket license."
+    },
+    "citation_keys": [
+      "zurichsource"
+    ],
+    "bibliographic_reference": "ZurichNLP, Scaling Unsupervised Word Alignment to Documents with Structural Constraints (project/dataset page).",
+    "training_corpus_ids": [
+      "wpt03-train",
+      "kftt",
+      "czeng",
+      "tsinghua-train"
+    ],
+    "notes": "Not independent annotation: avoid double-counting data across sources.",
+    "counts": {},
+    "verified_on": "2026-11-18"
+  },
+  {
+    "id": "pado-lapata-en-de",
+    "title": "Padó–Lapata cross-lingual semantic role annotation resource",
+    "language_pairs": [
+      "en-de"
+    ],
+    "annotation_type": "related-not-conventional-gold",
+    "original_publication_url": "https://nlpado.de/~sebastian/data/srl_data.shtml",
+    "source_url": "https://nlpado.de/~sebastian/data/srl_data.shtml",
+    "access": "public",
+    "license": {
+      "identifier": "not-specified",
+      "evidence_url": "https://nlpado.de/~sebastian/data/srl_data.shtml",
+      "evidence_status": "not-found",
+      "redistribution_decision": "link-only",
+      "terms_summary": "Related semantic-role projection corpus; not established as ordinary complete word-alignment gold. Do not treat as standard AER gold."
+    },
+    "citation_keys": [
+      "padolapatasource"
+    ],
+    "bibliographic_reference": "Sebastian Padó and Mirella Lapata, cross-lingual semantic role projection resources (publisher page).",
+    "training_corpus_ids": [
+      "europarl",
+      "opus"
+    ],
+    "notes": "",
+    "counts": {},
+    "verified_on": "2026-11-18"
+  }
+]

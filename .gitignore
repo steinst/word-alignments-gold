@@ -1,0 +1,17 @@
+# Dataset archives and extracted data are intentionally local-only.
+/data/**
+!/data/README.md
+*.tar.gz
+*.tar.xz
+*.zip
+*.7z
+*.parquet
+*.arrow
+*.feather
+*.gz
+*.bz2
+*.xz
+__pycache__/
+*.py[cod]
+.DS_Store
+.venv/
